@@ -5,6 +5,12 @@ An interactive analytics dashboard built with Streamlit for visualizing and anal
 ![Dashboard Preview](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+### Interactive Dashboard
+![Dashboard](images/image1.png)
+![Dashboard](images/image2.png)
+![PDF](images/image_pdf.png)
+
+
 ## 📋 Features
 
 - **Real-time Filtering**: Filter data by date range and product categories
@@ -79,7 +85,7 @@ Make sure `Ecommerce_Sales_Data_2024_2025.csv` is in the same directory as `ecom
 ### Running the Dashboard
 
 ```bash
-streamlit run ecommerce-dashboard.py
+streamlit run ecommerce-dash-pdf.py
 ```
 
 The dashboard will open automatically in your default web browser at `http://localhost:8501`
